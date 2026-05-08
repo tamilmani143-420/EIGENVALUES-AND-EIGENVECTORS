@@ -24,7 +24,7 @@ print("Eigen values are",eigen_value ,"and Eigen Vectors are",eigen_vector)
 ~~~
 ## Output:
 <img width="1481" height="814" alt="Screenshot 2026-05-08 131214" src="https://github.com/user-attachments/assets/1d80ef49-0e2e-4269-b44c-ae51ea1005c7" />
-<img width="1473" height="484" alt="Screenshot 2026-05-08 131228" src="https://github.com/user-attachments/assets/ac1e0501-b905-42e2-a234-7a57763cfc4f" />
+<img width="1476" height="470" alt="Screenshot 2026-05-08 131527" src="https://github.com/user-attachments/assets/1ca797e1-70e5-4569-8583-a1f98efb0074" />
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
